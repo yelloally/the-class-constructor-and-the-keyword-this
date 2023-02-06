@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/c_sharp/constructor_this/obj/Debug/net6.0/constructor_this.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/constructor_this/obj/Debug/net6.0/constructor_this.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/constructor_this/obj/Debug/net6.0/constructor_this.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/constructor_this/obj/Debug/net6.0/constructor_this.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/constructor_this/obj/Debug/net6.0/constructor_this.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/constructor_this/bin/Debug/net6.0/constructor_this
+/Users/yellobunny/Projects/c_sharp/constructor_this/bin/Debug/net6.0/constructor_this.deps.json
+/Users/yellobunny/Projects/c_sharp/constructor_this/bin/Debug/net6.0/constructor_this.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/constructor_this/bin/Debug/net6.0/constructor_this.dll
+/Users/yellobunny/Projects/c_sharp/constructor_this/bin/Debug/net6.0/constructor_this.pdb
+/Users/yellobunny/Projects/c_sharp/constructor_this/obj/Debug/net6.0/constructor_this.dll
+/Users/yellobunny/Projects/c_sharp/constructor_this/obj/Debug/net6.0/refint/constructor_this.dll
+/Users/yellobunny/Projects/c_sharp/constructor_this/obj/Debug/net6.0/constructor_this.pdb
+/Users/yellobunny/Projects/c_sharp/constructor_this/obj/Debug/net6.0/constructor_this.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/constructor_this/obj/Debug/net6.0/ref/constructor_this.dll
